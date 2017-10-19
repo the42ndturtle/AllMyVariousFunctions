@@ -1,5 +1,5 @@
 from tdl import *
-from center import center
+from AllMyVariousFunctions.tdl_utilities import center
 lowercase = 'abcdefghijklmnopqrstuvwxyz`1234567890[];\',./'
 uppercase = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ~!@#$%^&*(){}:"<>?'
 def cinp(y, limit, con):

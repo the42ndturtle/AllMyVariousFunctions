@@ -1,5 +1,5 @@
 from time import sleep
-from center import center
+from AllMyVariousFunctions.tdl_utilities import center
 from tdl import *
 def cetc(y, con):
 	sleep(.2)

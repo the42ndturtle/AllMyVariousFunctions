@@ -1,5 +1,5 @@
 from tdl import *
-from printf import printf
+from AllMyVariousFunctions.tdl_utilities import printf
 lowercase = 'abcdefghijklmnopqrstuvwxyz`1234567890[];\',./'
 uppercase = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ~!@#$%^&*(){}:"<>?'
 def inp(x, y, limit, con):

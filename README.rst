@@ -1,1 +1,0 @@
-HI.  I'm not really sure what this file is all about 'cause I have no clue what I am doing.  My perm function lets you change lines of a program in a program like the discription says.  Because the description already says that anyways, IDK what this is for thanks.

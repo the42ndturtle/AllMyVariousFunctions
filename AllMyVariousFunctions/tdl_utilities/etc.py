@@ -1,5 +1,5 @@
 from time import sleep 
-from printf import printf
+from AllMyVariousFunctions.tdl_utilities import printf
 from tdl import *
 def etc(x, y, con):
 	sleep(.2)

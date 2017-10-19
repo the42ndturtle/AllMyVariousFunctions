@@ -2,7 +2,7 @@ from setuptools import setup
 setup(
   name = 'AllMyVariousFunctions',
   packages = ['AllMyvariousFunctions'], # this must be the same as the name above
-  version = '18.10.17.2',
+  version = '19.10.17.1',
   description = 'A module for all my various functions',
   author = 'the42ndturtle',
   author_email = 'throwawayemail@gmail.com',
