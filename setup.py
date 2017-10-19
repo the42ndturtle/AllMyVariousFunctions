@@ -7,7 +7,7 @@ setup(
   author = 'the42ndturtle',
   author_email = 'throwawayemail@gmail.com',
   url = 'https://github.com/the42ndturtle/AllMyVariousFunctions', # use the URL to the github repo
-  download_url = 'https://github.com/the42ndturtle/AllMyVariousFunctions/archive/0.1.tar.gz', # I'll explain this in a second
+  download_url = 'https://github.com/the42ndturtle/AllMyVariousFunctions/archive/0.2.tar.gz', # I'll explain this in a second
   keywords = ['my', 'various', 'functions'], # arbitrary keywords
   classifiers = [],
 )
